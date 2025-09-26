@@ -7,7 +7,6 @@ It demonstrates the power of big data pipelines for **cleaning, visualizing, and
 
 ---
 
-## 🖼️ Slides  
 - ![Title Slide](Images/BigData.png)  
 - ![Project Highlights](Images/BigData1.png)  
 
